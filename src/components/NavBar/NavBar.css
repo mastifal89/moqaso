@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(77, 77, 77);
+}
+.text {
+    color: antiquewhite;
+    text-align: end;
+}
+.navbar {
+    display: block;
+}
+.log {
+    text-align: right;
+    float:right;
+}
